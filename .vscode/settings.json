@@ -17,9 +17,10 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 22,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Light 2026",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
+  "workbench.editor.decorations.colors": false,
   // "files.exclude": {
   //   "**/.git": false
   // }
